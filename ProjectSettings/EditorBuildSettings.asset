@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Init.unity
+    guid: 081366cfd341ece4f9577f1f8ede8bf7
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: bb5cfe7636768064a9f09a6dc69d08f8
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story1.unity
+    guid: 699dc24a2de2a8b438f6b36fc47d84d2
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story2.unity
+    guid: ee945f177d3c01643b142a4e52a0eda9
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story3.unity
+    guid: fa7c333ac3d288b4bb1b61677233c84a
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story4.unity
+    guid: 1490dd4f4b9615248a042180783140d3
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story5.unity
+    guid: 6d09644e96b40904a9193a523877b946
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story6.unity
+    guid: efadd793cd0b37849ab49f5d3fd6141e
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story7.unity
+    guid: 210ffdbe341c2434487d423888e3df21
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story8.unity
+    guid: e18a9cb5ec13a154b9e72454e426e7a3
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story9.unity
+    guid: 2df73ded4f518d04dad99685b64f0bce
+  - enabled: 1
+    path: Assets/Scenes/Stroy Scenes/story10.unity
+    guid: 995a3344e2b5e074ea7eda7e9ee8ced7
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: dd560005c6bac0f47bca93f7b23b3b66
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
